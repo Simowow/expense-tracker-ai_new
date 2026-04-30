@@ -11,7 +11,7 @@ npm run start    # Run production build
 npm run lint     # ESLint check
 ```
 
-No test suite is configured — linting is the only automated check again.
+No test suite is configured — linting is the only automated check.
 
 **Note:** Next.js 14 does not support `next.config.ts` — use `next.config.mjs` instead.
 
