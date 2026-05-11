@@ -37,7 +37,7 @@ export default function DashboardPage() {
       {/* Page header */}
       <div className="flex items-center justify-between">
         <div>
-          <h1 className="text-2xl font-bold text-slate-900">Dashboard</h1>
+          <h1 className="text-2xl font-bold text-red-600">Dashboard</h1>
           <p className="text-sm text-slate-400 mt-0.5">
             {format(new Date(), 'EEEE, MMMM d, yyyy')}
           </p>
